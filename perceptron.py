@@ -1,3 +1,11 @@
+# Kalana Dhanajaya Rathnayake 
+# LifeF@github.com 
+# University of Peradeniya 
+
+# email : edata.incore@gmail.com
+
+# 3D perceptron learning demonstration
+from Plane import Plane 
 class perceptron:
     # n is  number of weights
     # l is  learning Rate 
