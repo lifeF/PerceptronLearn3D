@@ -10,7 +10,7 @@ What things you need to install
 
 
 Processing Application
-You can download Processing application from processing [OffcialSite](https://processing.org/)
+You can download Processing application from [Processing Offcial Site](https://processing.org/)
 
 
 
