@@ -3,7 +3,7 @@
 Python implementation for perceptron lerning using processing 
 
 ## Getting Started
-Download processing application and Open file using processing and run.
+Download processing application and Open perceptron3Dlearnimg.pyde using processing and run.
 ### Prerequisites
 
 What things you need to install
